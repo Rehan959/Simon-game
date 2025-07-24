@@ -31,7 +31,8 @@ A web-based implementation of the classic Simon memory game. Test your memory by
 - HTML, CSS, JavaScript (jQuery)
 
 ## Demo
-Open `index.html` in your browser to play the game locally.
+- **Live Demo:** [Play Simon Game](https://rehan959.github.io/Simon-game/)
+- Or open `index.html` in your browser to play the game locally.
 
 ---
 
